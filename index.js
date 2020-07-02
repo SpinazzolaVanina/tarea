@@ -12,7 +12,7 @@ const app = express();
 // la app responde con Hello world
 // a todas las peticiones GET a /
 app.get('/', (req, res) => {
-  res.send('Hello world');
+  res.send('hola profe probando tarea1 Spinazzola Vanina');
 });
 
 // el server escucha en el puerto 3000
